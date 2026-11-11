@@ -65,15 +65,22 @@ Je ne fais aucun bénévolat, aucune modification gratuite, et je ne recycle pas
 
 ---
 
-## ACTIVITÉ EN TEMPS RÉEL
-
+## 📊 ACTIVITÉ EN TEMPS RÉEL
 
 <div align="center">
-  <br>
-  <a href="https://discord.com/users/zelkiobbb9">
-    <img src="https://img.shields.io/badge/ME_CONTACTER_SUR_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Me contacter sur Discord" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zelkiobb77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zelkiobb77&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zelkiobb77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
+</div>
+
+---
+
 
 
 ---
