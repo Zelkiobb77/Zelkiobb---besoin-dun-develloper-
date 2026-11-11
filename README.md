@@ -84,8 +84,8 @@ Vous avez un budget et une vision ? Je suis l'architecte qu'il vous faut. Pas de
 
 <div align="center">
   <br>
-  <a href="https://cal.com/devzelkiobb">
-    <img src="https://img.shields.io/badge/RESERVER_UN_APPEL-101010?style=for-the-badge&logo=googlecalendar&logoColor=white&logoSize=large" alt="Cal.com Contact" />
+  <a href="https://discord.com/users/zelkiobbb9">
+    <img src="https://img.shields.io/badge/ME_CONTACTER_SUR_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Me contacter sur Discord" />
   </a>
 </div>
 
